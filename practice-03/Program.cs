@@ -11,10 +11,10 @@ class Program{
     
 //-------------------------------------------------------------------------------
 
-    int num1, num2, result;
+    int num1=100, num2=15, result;
 
-    num1=100;
-    num2=15;
+    // num1=100;
+    // num2=15;
     result= num1 + num2;
 
     Console.WriteLine("A soma de "+num1 +" + "+num2+" é igual à: "+result);
