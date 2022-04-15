@@ -1,0 +1,2 @@
+dotnet new console -> Abre um novo dotnet;
+csc Program.cs -> Cria um executável para rodar o código;
