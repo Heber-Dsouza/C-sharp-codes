@@ -1,1 +1,1 @@
-console.log('Hi!')
+console.log('commits was already made in my another repository!')
